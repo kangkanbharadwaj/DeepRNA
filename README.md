@@ -46,6 +46,10 @@ The RNA sequences used in the application are basically created rather than impo
 For different parameter settings we get different results. 
 <br />
 
+<p align="center">
+<img style="border: 1px solid grey" src="images/1.png" alt="image segmentation vs semantic segmentation" width="500" height="400"/>
+</ p>
+
 <br />
 ## Conclusion
 
