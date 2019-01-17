@@ -49,8 +49,9 @@ For different parameter settings we get different results.
 <p align="center">
 <img style="border: 1px solid grey" src="images/1.png" alt="image segmentation vs semantic segmentation" width="500" height="400"/>
 </ p>
-
 <br />
+
+
 ## Conclusion
 
 The performance of the model did not reach the expected mark. This can be attributed to insufficient training data or to poor parameters tuning. The prototype still needs a little more enhancement in the above two sectors if needed to perform up to expectation. The results are logged in the directory but we have modelled here in graphical form for easy understanding.
